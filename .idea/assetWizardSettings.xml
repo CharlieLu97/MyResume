@@ -16,13 +16,30 @@
                             <entry key="launcher">
                               <value>
                                 <PersistentState>
+                                  <option name="children">
+                                    <map>
+                                      <entry key="foregroundImage">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="scalingPercent" value="59" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                    </map>
+                                  </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="backgroundImage" value="C:\Users\emfemc\Desktop\photofor1.png" />
-                                      <entry key="backgroundLayerName" value="ic_launcher_background1" />
-                                      <entry key="foregroundImage" value="C:\Users\emfemc\Desktop\photofor1.png" />
-                                      <entry key="foregroundLayerName" value="ic_launcher_foreground1" />
-                                      <entry key="outputName" value="ic_launcher1" />
+                                      <entry key="backgroundAssetType" value="COLOR" />
+                                      <entry key="backgroundColor" value="ede229" />
+                                      <entry key="backgroundImage" value="C:\Users\emfemc\Desktop\appimage.jpg" />
+                                      <entry key="backgroundLayerName" value="ic_launcher_background2" />
+                                      <entry key="foregroundImage" value="C:\Users\emfemc\Desktop\appimage.jpg" />
+                                      <entry key="foregroundLayerName" value="ic_launcher_foreground2" />
+                                      <entry key="outputName" value="ic_launcher2" />
                                       <entry key="showSafeZone" value="false" />
                                     </map>
                                   </option>
